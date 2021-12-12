@@ -2,4 +2,4 @@ function b1() {
     //do things
 }
 
-// code
+// code smth
