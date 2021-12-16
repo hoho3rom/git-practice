@@ -3,6 +3,6 @@
  * new docs
  */
 
-function master {
+function master() {
     
 }
