@@ -3,3 +3,8 @@ function b1() {
 }
 
 // code smth
+
+/* 
+c
+
+*/
