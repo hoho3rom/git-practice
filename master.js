@@ -4,6 +4,4 @@
  * 
  * erferfr
  * new
- * cd
- * wedew
  */
