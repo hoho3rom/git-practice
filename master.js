@@ -2,3 +2,7 @@
 /**
  * new docs
  */
+
+function master {
+    
+}
